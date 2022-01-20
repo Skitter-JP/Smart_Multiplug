@@ -1,5 +1,5 @@
 # Smart Multiplug
 
-Nothing Fancy, just a plastic box, 8x EU plugs, a Sonoff POW2 with Tasmota
+This project started off because I was looking for some decent multiplugs with indvidual switches and mountable to a table or wall, but I found nothing and decided to make my own. 
 
-This was proof of concept for a more advanced project I wish to create in the future.
+I wanted to make a multiplug that had 8 outputs
