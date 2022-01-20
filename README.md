@@ -1,6 +1,13 @@
 # Smart Multiplug
 
-This project started off because I was looking for some decent multiplugs with indvidual switches and mountable to a table or wall, but I found nothing and decided to make my own. 
+In this porject I have built a basic multiplug with 8 outputs, each output has a on/off switch, the input power also have a power switch.
+
+
+This project started because I was looking for some decent multiplugs with indvidual switches that was also mountable to a table or wall, but I found nothing decent and decided to make my own.
+
+The first version was done in a rush and did not look very professional but, it worked.
+
+The second version had a lot more planning put into it, most notably a Sonoff POW 2 was used, this gives the ability to control the power to the device remotly, but more imporantly it gives the ability to measure voltage, current and power factor.
 
 I wanted to make a multiplug that had 8 outputs
 
