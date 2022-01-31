@@ -17,6 +17,8 @@ Below we can see the stencil that was used to cutout two LED holders, A Power Bu
 
 <img src="/Images/V2/Cutting_Side_stencil.JPG" width=55%>
 
+<img src="/Images/V2/Cutting_Side_stencil_top.JPG" width=55%>
+
 
 
 ## Version 1
