@@ -17,18 +17,33 @@ Below we can see the stencil that was used to cutout two LED holders, A Power Bu
 
 <img src="/Images/V2/Cutting_Side_stencil.JPG" width=55%>
 
-In this image we can see the stencil that was used in version 2, the holes for the plugs and switched have been cut, you can see that I have used masking tape to hold the stencil to the lid
+In this image we can see the stencil that was used in version 2, the holes for the plugs and switched have been cut, you can see that I have used masking tape to hold the stencil to the lid.
 
 <img src="/Images/V2/Cutting_Side_stencil_top.JPG" width=55%>
 
+Here is a photo of me cutting the lid for version 1 of the multiplug, this clear shows how much plastic dust is apparent when cutting these devices.
+
+<img src="/Images/V1/Cutting_Stencil_Top_Lid.JPG" width=55%>
+
+Here is a screen shot of the stencil in Sketchup.
+
+<img src="/Images/V2/Stencil_Top_Lid_Sketchup.JPG" width=55%>
 
 
 ## Version 1
 
-Here you can view the first version of this project.
+Here are images from Version 1.
 
+Here the stencil for the lid has been secured and is ready to be cut.
 
+<img src="/Images/V1/Stencil_Top_Lid.JPG" width=55%>
 
+Here the holes have been cut and the swtiches/plugs have bee  test fitted
+
+<img src="/Images/V1/Lid_with_plugs_V1.JPG" width=55%>
+
+Here the plugs/switches have been mounted to the lid and the connections have been made.
+A din rail was mounted to the bottom of the encloser and all connections are screwed to 3 seperate terminal blocks for Earth, Neutral and Live
 <img src="/Images/V1/Internal_Box_V1.JPG" width=55%>
 <img src="/Images/V1/Lid_with_plugs_V1.JPG" width=55%>
 
@@ -37,7 +52,7 @@ Here you can view the first version of this project.
 
 ## Version 2
 
-I wanted to make a multiplug that had 8 outputs
+Here are images from Version 2.
 
 
 <img src="/Images/V2/Complete_Unit.JPG" width=55%>
