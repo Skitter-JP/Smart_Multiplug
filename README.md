@@ -17,6 +17,8 @@ Below we can see the stencil that was used to cutout two LED holders, A Power Bu
 
 <img src="/Images/V2/Cutting_Side_stencil.JPG" width=55%>
 
+In this image we can see the stencil that was used in version 2, the holes for the plugs and switched have been cut, you can see that I have used masking tape to hold the stencil to the lid
+
 <img src="/Images/V2/Cutting_Side_stencil_top.JPG" width=55%>
 
 
