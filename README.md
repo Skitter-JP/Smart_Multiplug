@@ -68,12 +68,14 @@ A din rail was cut and installed to the bottom arae of the enclouser, 3 Connecto
 
 <img src="/Images/V2/Internals_No_wires.JPG" width=55%>
 
+<img src="/Images/V2/LED_Button_SONOFF.JPG" width=55%>
+
+
+<img src="/Images/V2/Top_Lid_Complete.JPG" width=55%>
+
+
 
 <img src="/Images/V2/Complete_Unit.JPG" width=55%>
 <img src="/Images/V2/Connections.JPG" width=55%>
 
 
-<img src="/Images/V2/LED_Button_SONOFF.JPG" width=55%>
-
-
-<img src="/Images/V2/Top_Lid_Complete.JPG" width=55%>
