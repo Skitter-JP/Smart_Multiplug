@@ -7,7 +7,13 @@ This project started because I was looking for some decent multiplugs with indvi
 
 The first version was done in a rush and did not look very professional but, it worked.
 
+Below are the completed units of version 1 which were mounted below my desk.
+
+<img src="/Images/V1/Boxes_mounted_V1.JPG" width=55%>
+
 The second version had a lot more planning put into it, most notably a Sonoff POW 2 was used, this gives the ability to control the power to the device remotly, but more imporantly it gives the ability to measure voltage, current and power factor.
+
+<img src="/Images/V2/Smart_multi_plug_and_Dimmer.JPG" width=55%>
 
 On both versions the holes were cut manually with a Dremel, a stencil was made in Google Sketchup and then a 1-1 drawing was printed.
 
@@ -48,9 +54,7 @@ A din rail was mounted to the bottom of the encloser and all connections are scr
 In hindsight I should of twited the cables from each plug to the connector blocks, this could of helped with the mess and maybe reduce some EMI noise.
 <img src="/Images/V1/Internal_Box_V1.JPG" width=55%>
 
-Both completed units are version 2 are seen below mounted to my desk.
 
-<img src="/Images/V1/Boxes_mounted_V1.JPG" width=55%>
 
 ## Version 2
 
@@ -71,5 +75,5 @@ A din rail was cut and installed to the bottom arae of the enclouser, 3 Connecto
 
 <img src="/Images/V2/LED_Button_SONOFF.JPG" width=55%>
 
-<img src="/Images/V2/Smart_multi_plug_and_Dimmer.JPG" width=55%>
+
 <img src="/Images/V2/Top_Lid_Complete.JPG" width=55%>
