@@ -15,6 +15,8 @@ The second version had a lot more planning put into it, most notably a Sonoff PO
 
 <img src="/Images/V2/Smart_multi_plug_and_Dimmer.JPG" width=55%>
 
+#Stencil Guides
+
 On both versions the holes were cut manually with a Dremel, a stencil was made in Google Sketchup and then a 1-1 drawing was printed.
 
 This printed stencil was this cut and taped onto the enclourser, this was then used as my guide when cutting the boxes, this technique works really well but, cutting plastic manually is horrible and time consuming.
@@ -88,7 +90,28 @@ This could help in the future if any maintance needs to be done.
 
 <img src="/Images/V2/Connections.JPG" width=55%>
 
+Here we can see the final image before the unit was sealed.
+
 <img src="/Images/V2/Complete_Unit.JPG" width=55%>
+
+## Version 3
+
+A third version in being planned and will hopefully be built in the future when money and time become avalble.
+
+This third version will conisit of the following.
+
+- A custom alimunim cut encoloure with laser etched engravings
+- Each output will have its own indivudal current,voltage and tempaturing sensing units with a dedicated power relay
+- Each output will also have its own dedicated microcontroller
+- A main microcontroller will be implmeneted and will comunicate with the other microcontroller over CAN or some other protocol
+- The main microntorller will have an RJ45 connection for a phyical connection to a LAN
+- The main microcontoller will also support a WiFi connection
+- The mains input will have surge protection and fuses
+- There will be 3 subversions with 8x, 10x and 12x outputs
+
+## Questions/Orders
+
+If you have any questions, orders or would like to colrabte with some other porjects then, please contact me.
 
 
 
